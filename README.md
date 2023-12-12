@@ -1,10 +1,10 @@
 Markdown Cheatsheet <a name="TOP"></a>
 ==================
-# info #
+# Colaborator info #
     Name : Aden Lee
     SID : 642115501
 
-    
+
 ----
 # Heading 1 #
     Markup : # Heading 1 #
